@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say loop="600" voice="alice" language="en-US">
+        Alert! There is an issue with your Python script. Please check immediately!
+    </Say>
+</Response>
